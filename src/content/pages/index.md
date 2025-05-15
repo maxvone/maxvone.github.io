@@ -22,11 +22,11 @@ content_blocks:
       text: Try This Free
       link: /signup/
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: Subscribe to my
+    title_suffix: Newsletter
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      It's not consistent yet
+      I'll drop you a couple of emails a year to give updates about my current projects and exclusive products.
     alternate_style: false
     numbers:
       - prefix: $
