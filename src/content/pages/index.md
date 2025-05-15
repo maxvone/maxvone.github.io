@@ -29,22 +29,22 @@ content_blocks:
       I'll drop you a couple of emails a year to give updates about my current projects and exclusive products.
     alternate_style: false
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
+      # - prefix: $
+      #   number: 200
+      #   suffix: m
+      #   text: Venture capital raised
       - prefix:
-        number: 2016
+        number: 2025
         suffix:
-        text: Established in
+        text: Published from
       - prefix:
         number: 40
         suffix: +
-        text: Amazing team members
+        text: Amazing subscribers
       - prefix:
-        number: 4322
+        number: 10
         suffix: +
-        text: Active users and growing
+        text: Newsletters sent
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
