@@ -14,12 +14,6 @@
       "dropdown": []
     },
     {
-      "text": "Pricing",
-      "link": "/pricing/",
-      "enable_dropdown": false,
-      "dropdown": []
-    },
-    {
       "text": "About",
       "link": "/about/",
       "enable_dropdown": false,
