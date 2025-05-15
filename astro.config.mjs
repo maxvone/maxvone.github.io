@@ -4,7 +4,7 @@ import bookshop from '@bookshop/astro-bookshop';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://github.com/maxvone/personal-page',
-  base: '/personal-page/',
+  site: 'https://maxvone.github.io',
+  base: '/personal-page',
   integrations: [bookshop(), react()]
 });
