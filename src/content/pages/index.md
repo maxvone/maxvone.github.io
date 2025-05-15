@@ -13,8 +13,9 @@ content_blocks:
   - _bookshop_name: home/hero
     title: Yo, friends 👋
     description: >-
-      I am Max. Former gamedeveloper turned web developer turned...
-      will see what will be next 😅.
+      I am Max. I'm a Former Gamedeveloper turned <strong>Web Developer</strong>.
+      <br/>
+      Right now I am looking for a new oportunity in the <strong>Java Backend Development</strong> field. 
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
